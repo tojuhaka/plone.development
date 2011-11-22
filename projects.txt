@@ -28,5 +28,9 @@ jyu.mailtocontent:
 ==================
 - My first project using plone :)
 
-
+other:
+=====
+- Many other small projects that I can't remember
+- bugfixing and refactoring code of others (and also my own too)
+- maintain the projects
 
