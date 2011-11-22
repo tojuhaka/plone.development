@@ -1,0 +1,32 @@
+Rimv-site:
+=========
+- moniviestin integrated with jyu.embedpage
+- layout created
+- optimization for e-commerce
+
+Eportfolio:
+===========
+- visualization for study records using RGraph-library
+- my first touch to coffee-script
+
+Tutkapage & Course Folder:
+=========================
+- Rewrite for tutkapage and Course folder
+- jyu.datautils created for caching and saving persistent data
+- Query-optimization was the most important task
+- from 3 min to 22 sec <--- great success
+- No more extra content for every course in coursefolder
+- No more extra hammering against TUTKA
+- Loads of new features
+
+Moniviestin:
+===========
+- Mobile-streaming created
+- Loads of bugfixes 
+
+jyu.mailtocontent:
+==================
+- My first project using plone :)
+
+
+
